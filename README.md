@@ -7,7 +7,7 @@ TRX-Extra-45 Is a mod menu for Tomb Raider Remastered 4 & 5
 3. Download the latest Release.zip and directly extract in the game directory, replace all.
 4. Start the game with `Start Mod.bat` You can also edit it and add `-dev -noload` if you wish to disable the 2D fake loading screen when loading different levels (not skip FMV though).
 5. You may have to locate your savegame and put it in `C:\Users\<Your Username>\AppData\Roaming\TRX2`
-5. In-Game, press the `INSERT/Ins` key to open the menu, You can also drag/resize it like you want.
+6. In-Game, press the `INSERT/Ins` key to open the menu, You can also drag/resize it like you want.
 
 ## Uninstall
 Just replace the files with your backups, on Steam and Epic Online Store, You can directly verify the game integrity and it'll redownload/replace the files that are modified.
