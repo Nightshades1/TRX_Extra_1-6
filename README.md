@@ -18,7 +18,8 @@ Going back to certain level that u aren't supposed to, will cause a crash if you
 If you go back to the starting levels, your weapon status is set to UNHOLSTERED to avoid weird anims (as this miss Lara Guns anim ...).<br>
 
 # Preview of the menu rendered on the game in full-screen
-![image](https://github.com/user-attachments/assets/71c21247-897a-4d8f-ab97-8cd509258a17)
+![image](https://github.com/user-attachments/assets/cd539b22-21f3-4e0a-90fe-c4f4179bf39f)
+
 
 ## TODO
 1. Add these features for Tomb Raider Chronicles
