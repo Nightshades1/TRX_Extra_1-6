@@ -20,10 +20,6 @@ If you go back to the starting levels, your weapon status is set to UNHOLSTERED 
 # Preview of the menu rendered on the game in full-screen
 ![image](https://github.com/user-attachments/assets/cd539b22-21f3-4e0a-90fe-c4f4179bf39f)
 
-
-## TODO
-1. Add these features for Tomb Raider Chronicles
-
 ## This project use
 https://github.com/ocornut/imgui<br>
 https://github.com/microsoft/Detours
