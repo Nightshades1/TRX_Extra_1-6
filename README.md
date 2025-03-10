@@ -20,7 +20,7 @@ If you go back to the starting levels, your weapon status is set to UNHOLSTERED 
 # Preview of the menu rendered on the game in full-screen
 ![image](https://github.com/user-attachments/assets/cd539b22-21f3-4e0a-90fe-c4f4179bf39f)
 
-# Reshade Shaders for TR45, make the game lighter and not too dark
+# Reshade Shaders for TR45, make the game brighter and not too dark
 ### Installation
 Download the TR45-Reshade.zip from the latest release and extract it in your game folder<br>
 If you wish to run my mod on top of it, you'll need to run the game with `-noegs -nosteam` argument.
