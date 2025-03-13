@@ -1,5 +1,10 @@
 # TRX-Extra-45
 TRX-Extra-45 Is a mod menu for Tomb Raider Remastered 4 & 5
+# Roadmap
+|Game  |Feature |Completed|
+|:----:|:------:|:-------:|
+|TR1-5|Write a Reshade Addons to customize Shaders lighting|❌|
+
 
 ## Installation
 1. (Skip if you are using Steam/Epic Store) Go in your game folder and backup `tomb4.dll` `tomb5.dll` and `tomb6.dll` that can be found in the folder named 4/5/6.
@@ -28,8 +33,6 @@ If you wish to run my mod on top of it, you'll need to run the game with `-noegs
 # Reshade Preview Before/After image
 ![before](https://github.com/user-attachments/assets/9bdec1d0-c768-4c61-a4ee-dd9b2a185ddf)
 ![after](https://github.com/user-attachments/assets/2201e0eb-32f3-46ea-8bd5-e15aec216c58)
-
-
 
 ## This project use
 https://github.com/ocornut/imgui<br>
