@@ -4,11 +4,8 @@ TRX-Extra-45 Is a mod menu for Tomb Raider Remastered 4 & 5
 |Game  |Feature |Completed|
 |:----:|:------:|:-------:|
 |TR1-3|Mod Menu & Launcher|❌|
-|TR1-3|Implement IMGUI Interface|❌|
-|TR1-3|Implement Settings to modify in-game gamma Shaders|❌|
 |TR4-5|Mod Menu & Launcher|✅️|
-|TR4-5|Implement IMGUI Interface|✅️|
-|TR4-5|Implement Settings to modify in-game gamma Shaders|❌|
+|TR1-5|Implement Settings to modify in-game gamma Shaders|❌|
 
 
 
