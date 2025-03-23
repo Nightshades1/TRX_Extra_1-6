@@ -20,7 +20,7 @@ Many features are for now missing for tr1-3 but you can set maxium health and sw
 5. You may have to locate your savegame and put it in `C:\Users\<Your Username>\AppData\Roaming\TRX`
 6. In-Game, press the `INSERT/Ins` key to open the menu, You can also drag/resize it like you want.
 
-## Installation TR 1-5
+## Installation TR 4-6
 1. Same steps as TR 1-3 except that the save folder is named TRX2.
 
 ## Uninstall
