@@ -1,5 +1,7 @@
 # TRX_Extra_1-5
-TRX_Extra_1-5 Is a Mod Panel for Tomb Raider Remastered 1-5
+TRX_Extra_1-5 Is a Mod Panel for Tomb Raider Remastered 1-5,
+Achievements can't be earned by using this mod since EGS will most likely unload the dll (may work on steam though), It's out of the scope of this project and not meant to bypass anything.
+
 # Roadmap
 Many features are for now missing for tr1-3 but you can set maxium health and swim everywhere, It's quite hard to manage 5 games.
 |Game  |Feature |Completed|
