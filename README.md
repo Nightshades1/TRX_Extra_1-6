@@ -8,7 +8,7 @@ Many features are for now missing for tr1-3 but you can set maxium health and sw
 |:----:|:------:|:-------:|
 |TR1-5|Mod & Launcher|✅️|
 |TR1-3|Implement Settings to modify in-game Shaders lighting|✅️|
-|TR4-6|Implement Settings to modify in-game Shaders lighting|❌|
+|TR4-5|Implement Settings to modify in-game Shaders lighting|✅️|
 
 
 
