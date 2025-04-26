@@ -26,10 +26,6 @@ Many features are for now missing for tr1-3 but you can set maxium health and sw
 ## Uninstall
 Just replace the files with your backups, on Steam and Epic Online Store, You can directly verify the game integrity and it'll redownload/replace the files that are modified.
 
-## Known Issue for TR 4-5
-Going back to certain level that u aren't supposed to, will cause a crash if you use the 'classic' renderer (Especially on Young-Lara levels),<br>
-If you go back to the starting levels, your weapon status is set to UNHOLSTERED to avoid weird anims (as this miss Lara Guns anim ...).<br>
-
 # Preview TR 1-3
 ![image](https://github.com/user-attachments/assets/b2679614-a038-4109-8c95-7527e4155abf)
 ![image](https://github.com/user-attachments/assets/9a8f21c7-d2a8-4aef-b233-5432513f9fa0)
