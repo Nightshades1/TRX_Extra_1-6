@@ -30,13 +30,14 @@ Just replace the files with your backups, on Steam and Epic Online Store, You ca
 Going back to certain level that u aren't supposed to, will cause a crash if you use the 'classic' renderer (Especially on Young-Lara levels),<br>
 If you go back to the starting levels, your weapon status is set to UNHOLSTERED to avoid weird anims (as this miss Lara Guns anim ...).<br>
 
-# Preview TR 1-3 (Not Final)
+# Preview TR 1-3
 ![image](https://github.com/user-attachments/assets/b2679614-a038-4109-8c95-7527e4155abf)
 ![image](https://github.com/user-attachments/assets/9a8f21c7-d2a8-4aef-b233-5432513f9fa0)
 ![image](https://github.com/user-attachments/assets/c7e27150-3fdf-454d-b450-ed15b5f12df9)
 
-# Preview TR 4-5 (Not Final)
-![image](https://github.com/user-attachments/assets/cd539b22-21f3-4e0a-90fe-c4f4179bf39f)
+# Preview TR 4-5
+![preview](https://github.com/user-attachments/assets/0b6cb067-a75c-460c-b422-b34b9af269d1)
+
 
 ## This project use
 https://github.com/ocornut/imgui<br>
