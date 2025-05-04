@@ -2,10 +2,7 @@
 TRX_Extra_1-5 Is a Mod for Tomb Raider Remastered 1-5,
 Achievements can't be earned by using this mod since EGS will most likely unload the dll (may work on steam though), It's out of the scope of this project and not meant to bypass anything.
 
-# Feature(s) Progress
-Many features are for now missing for tr1-3 but you can set maxium health and swim everywhere.
-
-## TR4-5
+### TR4-5
 - [x] Mod & Launcher.
 - [x] Implement Settings to modify in-game Shaders lighting.
 - [x] Add Water Room feature to swim everywhere.
@@ -13,7 +10,7 @@ Many features are for now missing for tr1-3 but you can set maxium health and sw
 - [ ] Deactivate Lava Burn (Introduced in TR4) if a room is filled of water.
 - [ ] Provide experimental settings to prevent doors initialisation to 'roam' like a dev-level-tester [DoorType 1-7/KeyHole].
 
-## TR1-3
+### TR1-3
 - [x] Mod & Launcher.
 - [x] Implement Settings to modify in-game Shaders lighting.
 - [x] Add Water Room feature to swim everywhere.
