@@ -16,6 +16,7 @@ Many features are for now missing for tr1-3 but you can set maxium health and sw
 ## TR1-3
 - [x] Mod & Launcher.
 - [x] Implement Settings to modify in-game Shaders lighting.
+- [x] Add Water Room feature to swim everywhere.
 - [ ] Add Lara feature to face direction etc.
 - [ ] Provide experimental settings to prevent doors initialisation to 'roam' like a dev-level-tester [DoorType 1-7/KeyHole].
 
