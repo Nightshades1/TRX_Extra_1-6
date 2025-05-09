@@ -4,18 +4,21 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 
 ### TR4-5
 - [x] Mod & Launcher.
-- [x] Implement Settings to modify in-game Shaders lighting.
-- [x] Add Water Room feature to swim everywhere.
+- [x] Implement settings to modify in-game Shaders lighting.
+- [x] Add water room feature to swim everywhere.
 - [x] Add Lara feature to face direction etc.
-- [ ] Deactivate Lava Burn (Introduced in TR4) if a room is filled of water.
-- [ ] Provide experimental settings to prevent doors initialisation to 'roam' like a dev-level-tester [DoorType 1-7/KeyHole].
+- [ ] Add Checkbox to disable lava burn.
+- [ ] Add Checkbox to disable water current
+- [ ] Add Checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
 ### TR1-3
 - [x] Mod & Launcher.
-- [x] Implement Settings to modify in-game Shaders lighting.
-- [x] Add Water Room feature to swim everywhere.
+- [x] Implement settings to modify in-game Shaders lighting.
+- [x] Add water room feature to swim everywhere.
 - [ ] Add Lara feature to face direction etc.
-- [ ] Provide experimental settings to prevent doors initialisation to 'roam' like a dev-level-tester [DoorType 1-7/KeyHole].
+- [ ] Add Checkbox to disable lava burn.
+- [ ] Add Checkbox to disable water current
+- [ ] Add Checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
 
 
