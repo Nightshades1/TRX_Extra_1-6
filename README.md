@@ -9,8 +9,9 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [x] Add water room feature to swim everywhere.
 - [x] Add Lara feature to face direction etc.
 - [ ] Add Lara feature to adjust swim speed.
+- [ ] Add checkbox for infinite air.
 - [ ] Add checkbox to disable lava burn.
-- [ ] Add checkbox to disable water current
+- [ ] Add checkbox to disable water current.
 - [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
 ### TR1-3
@@ -20,8 +21,9 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [x] Add water room feature to swim everywhere.
 - [ ] Add Lara feature to face direction etc.
 - [ ] Add Lara feature to adjust swim speed.
+- [ ] Add checkbox for infinite air.
 - [ ] Add checkbox to disable lava burn.
-- [ ] Add checkbox to disable water current
+- [ ] Add checkbox to disable water current.
 - [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
 
