@@ -8,10 +8,10 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [x] Add level feature to load a specific level.
 - [x] Add water room feature to swim everywhere.
 - [x] Add Lara feature to face direction etc.
-- [ ] Add Lara feature to adjust swim speed.
-- [ ] Add checkbox for infinite air.
-- [ ] Add checkbox to disable lava burn.
-- [ ] Add checkbox to disable water current.
+- [x] Add Lara feature to adjust swim speed.
+- [x] Add checkbox for infinite air.
+- [x] Add checkbox to disable lava burn.
+- [x] Add checkbox to disable water current.
 - [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
 ### TR1-3
