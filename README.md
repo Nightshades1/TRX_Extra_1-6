@@ -8,6 +8,7 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [x] Add level feature to load a specific level.
 - [x] Add water room feature to swim everywhere.
 - [x] Add Lara feature to face direction etc.
+- [x] Add Lara feature to adjust swiming boundaries.
 - [x] Add Lara feature to adjust swim speed.
 - [x] Add checkbox for infinite air.
 - [x] Add checkbox to disable lava burn.
@@ -20,6 +21,7 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [ ] Add level feature to load a specific level.
 - [x] Add water room feature to swim everywhere.
 - [ ] Add Lara feature to face direction etc.
+- [ ] Add Lara feature to adjust swiming boundaries.
 - [ ] Add Lara feature to adjust swim speed.
 - [ ] Add checkbox for infinite air.
 - [ ] Add checkbox to disable lava burn.
