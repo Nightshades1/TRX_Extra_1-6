@@ -2,6 +2,19 @@
 TRX_Extra_1-5 Is a Mod for Tomb Raider Remastered 1-5,
 Achievements can't be earned by using this mod since EGS will most likely unload the dll (may work on steam though), It's out of the scope of this project and not meant to bypass anything.
 
+### TR1-3
+- [x] Mod & Launcher.
+- [x] Implement settings to modify in-game Shaders lighting.
+- [ ] Add level feature to load a specific level.
+- [x] Add water room feature to swim everywhere.
+- [ ] Add Lara feature to face direction etc.
+- [ ] Add Lara feature to adjust swimming boundaries.
+- [ ] Add Lara feature to adjust swim speed.
+- [ ] Add checkbox for infinite air.
+- [ ] Add checkbox to disable lava burn.
+- [ ] Add checkbox to disable water current.
+- [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
+
 ### TR4-5
 - [x] Mod & Launcher.
 - [x] Implement settings to modify in-game Shaders lighting.
@@ -15,18 +28,8 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [x] Add checkbox to disable water current.
 - [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
-### TR1-3
-- [x] Mod & Launcher.
-- [x] Implement settings to modify in-game Shaders lighting.
-- [ ] Add level feature to load a specific level.
-- [x] Add water room feature to swim everywhere.
-- [ ] Add Lara feature to face direction etc.
-- [ ] Add Lara feature to adjust swimming boundaries.
-- [ ] Add Lara feature to adjust swim speed.
-- [ ] Add checkbox for infinite air.
-- [ ] Add checkbox to disable lava burn.
-- [ ] Add checkbox to disable water current.
-- [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
+### TR6
+- [ ] Implement settings to modify in-game Shaders lighting.
 
 
 
