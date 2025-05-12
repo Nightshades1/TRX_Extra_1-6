@@ -30,7 +30,7 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 
 ### TR6
 - [ ] Implement settings to modify in-game Shaders lighting.
-- [ ] Original Swimcheat (noclip)
+- [ ] Original Swimcheat (noclip/godmode)
 
 
 
