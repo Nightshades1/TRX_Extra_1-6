@@ -53,7 +53,7 @@ Just replace the files with your backups, on Steam and Epic Online Store, You ca
 ![image](https://github.com/user-attachments/assets/b2679614-a038-4109-8c95-7527e4155abf)
 
 # Preview TR 4-5
-![preview](https://github.com/user-attachments/assets/0b6cb067-a75c-460c-b422-b34b9af269d1)
+![image](https://github.com/user-attachments/assets/9b05ebd2-e8d6-4955-87d2-b1fa6e4b6668)
 
 # TR6
 ![image](https://github.com/user-attachments/assets/949dd7aa-a806-4c33-855a-76fb141e5fa4)
