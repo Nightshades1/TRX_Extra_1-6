@@ -1,5 +1,5 @@
-# TRX_Extra_1-5
-TRX_Extra_1-5 Is a Mod for Tomb Raider Remastered 1-5,
+# TRX_Extra_1-6
+TRX_Extra_1-6 Is a Mod for Tomb Raider Remastered 1-6,
 Achievements can't be earned by using this mod since EGS will most likely unload the dll (may work on steam though), It's out of the scope of this project and not meant to bypass anything.
 
 ### TR1-3
@@ -30,6 +30,7 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 
 ### TR6
 - [ ] Implement settings to modify in-game Shaders lighting.
+- [ ] Original Swimcheat (noclip)
 
 
 
