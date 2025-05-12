@@ -29,8 +29,9 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
 ### TR6
-- [ ] Implement settings to modify in-game Shaders lighting.
-- [ ] Original Swimcheat (noclip/godmode)
+- [x] Implement settings to modify in-game Shaders lighting.
+- [x] Original Swimcheat.
+- [x] Activate Level selection/skip in the pause menu.
 
 
 
@@ -55,6 +56,9 @@ Just replace the files with your backups, on Steam and Epic Online Store, You ca
 
 # Preview TR 4-5
 ![preview](https://github.com/user-attachments/assets/0b6cb067-a75c-460c-b422-b34b9af269d1)
+
+# TR6
+![image](https://github.com/user-attachments/assets/949dd7aa-a806-4c33-855a-76fb141e5fa4)
 
 
 ## This project use
