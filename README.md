@@ -44,7 +44,7 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 6. In-Game, press the `INSERT/Ins` key to open the menu, You can also drag/resize it like you want.
 
 ## Installation TR 4-6
-1. Same steps as TR 1-3 except that the save folder is named TRX2.
+1. Same steps as TR 1-3 except that the save folder is named TRX2 and only download the release tagged with _tr4-6.
 
 ## Uninstall
 Just replace the files with your backups, on Steam and Epic Online Store, You can directly verify the game integrity and it'll redownload/replace the files that are modified.
