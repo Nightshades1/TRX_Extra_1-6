@@ -34,6 +34,10 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [x] Original Swimcheat.
 - [x] Activate Level selection/skip in the pause menu.
 
+### Mod Interface
+- [ ] Font Size.
+- [ ] Other Themes.
+
 
 
 ## Installation TR 1-3
