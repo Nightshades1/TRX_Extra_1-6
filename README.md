@@ -5,7 +5,8 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 ### TR1-3
 - [x] Mod & Launcher.
 - [x] Implement settings to modify in-game Shaders lighting.
-- [ ] Add level feature to load a specific level.
+- [ ] Add NewGame override to start at a specific level.
+- [ ] Add Level skipping.
 - [x] Add water room feature to swim everywhere.
 - [ ] Add Lara feature to face direction etc.
 - [ ] Add Lara feature to adjust swimming boundaries.
