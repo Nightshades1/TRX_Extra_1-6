@@ -75,5 +75,6 @@ Just replace the files with your backups, on Steam and Epic Online Store, You ca
 https://github.com/ocornut/imgui<br>
 https://github.com/microsoft/Detours
 
-## PS for Aspyr
-The TRX level editor is missing ...
+## PS for Aspyr(ator) 😂
+The TRX level editor is missing ... Looks like you don't plan to allows people to build their own levels,
+WorldEdit is missing as well, How strange.
