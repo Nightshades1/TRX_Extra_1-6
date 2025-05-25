@@ -5,23 +5,26 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 ### TR1-3
 - [x] Mod & Launcher.
 - [x] Implement settings to modify in-game Shaders lighting.
-- [ ] Add NewGame override to start at a specific level.
-- [ ] Add Level skipping.
+- [x] Add Newgame override to start at a specific level.
+- [x] Add Finish level.
 - [x] Add water room feature to swim everywhere.
-- [ ] Add Lara feature to face direction etc.
-- [ ] Add Lara feature to adjust swimming boundaries.
-- [ ] Add Lara feature to adjust swim speed.
-- [ ] Add checkbox for infinite air.
-- [ ] Add checkbox to disable lava burn.
-- [ ] Add checkbox to disable water current.
+- [x] Add Lara outfit selection. 
+- [x] Add Lara feature to find the north.
+- [x] Add Lara feature to adjust swimming boundaries.
+- [x] Add Lara feature to adjust swim speed.
+- [x] Add checkbox for infinite air.
+- [x] Add checkbox to disable lava burn.
+- [x] Add checkbox to disable water current.
 - [ ] Add checkbox to prevent doors initialisation meant to 'disable' doors collision/controls.
 
 ### TR4-5
 - [x] Mod & Launcher.
 - [x] Implement settings to modify in-game Shaders lighting.
+- [x] Add Finish level.
 - [x] Add level feature to load a specific level.
 - [x] Add water room feature to swim everywhere.
-- [x] Add Lara feature to face direction etc.
+- [x] Add Lara outfit selection. 
+- [x] Add Lara feature to find the north.
 - [x] Add Lara feature to adjust swimming boundaries.
 - [x] Add Lara feature to adjust swim speed.
 - [x] Add checkbox for infinite air.
@@ -35,8 +38,9 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 - [x] Activate Level selection/skip in the pause menu.
 
 ### Mod Interface
-- [ ] Font Size.
-- [ ] Other Themes.
+- [x] Save/Restore settings.
+- [x] Font Size.
+- [x] Other Themes.
 
 
 
@@ -54,14 +58,17 @@ Achievements can't be earned by using this mod since EGS will most likely unload
 ## Uninstall
 Just replace the files with your backups, on Steam and Epic Online Store, You can directly verify the game integrity and it'll redownload/replace the files that are modified.
 
-# Preview TR 1-3
-![image](https://github.com/user-attachments/assets/b2679614-a038-4109-8c95-7527e4155abf)
+# TR 1-3
+![image](https://github.com/user-attachments/assets/c2b4b215-b527-44c6-8393-272dced972dc)
 
-# Preview TR 4-5
-![image](https://github.com/user-attachments/assets/9b05ebd2-e8d6-4955-87d2-b1fa6e4b6668)
+
+# TR 4-5
+![image](https://github.com/user-attachments/assets/8084bbfc-d5c9-4950-adc8-d5981832b586)
+
 
 # TR6
-![image](https://github.com/user-attachments/assets/949dd7aa-a806-4c33-855a-76fb141e5fa4)
+![image](https://github.com/user-attachments/assets/e5d551a5-b3a7-4833-828d-547f4a96b33e)
+
 
 
 ## This project use
